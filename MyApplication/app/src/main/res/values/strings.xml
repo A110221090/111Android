@@ -1,0 +1,5 @@
+<resources>
+    <string name="number">0</string>
+    <string name="btnIncrease">增加計數</string>
+    <string name="btnZero">計數歸零</string>
+</resources>
